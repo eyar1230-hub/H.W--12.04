@@ -1,0 +1,7 @@
+CREATE TABLE students(
+	id INT PRIMARY KEY NOT NULL,
+	name TEXT NOT NULL,
+	age REAL,
+	city TEXT,
+	grade REAL NOT NULL
+);
